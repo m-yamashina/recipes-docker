@@ -1,0 +1,3 @@
+[submodule "recipes-rails"]
+	path = recipes-rails
+	url = https://github.com/m-yamashina/recipes-rails.git
